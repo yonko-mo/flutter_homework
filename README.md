@@ -1,6 +1,6 @@
 # Flutter Homework 🚀
 
-This repository contains my **Flutter homework and practice exercises** while studying the **Flutter Diploma by Tharwat Samy**.
+This repository contains my **Flutter homework and practice exercises** while studying the **Flutter Diploma by Eng Tharwat Samy**.
 
 ## 📚 About
 
@@ -36,7 +36,7 @@ session_2_homework/
 
 ## 📌 Note
 
-These exercises are part of my learning journey while studying the **Flutter Diploma by Tharwat Samy**.
+These exercises are part of my learning journey while studying the **Flutter Diploma by Eng Tharwat Samy**.
 
 ---
 
